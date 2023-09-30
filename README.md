@@ -7,7 +7,7 @@ Academic Project
 Objective : Practical work on using numerical method on Lotka-Volterra predator-prey model
 
 Team : Team of 2   
-Time Spent : ~5 hours 
+Time Spent : ~5 hours   
 Technologies used:
 - python
 - Jupyter Notebook
